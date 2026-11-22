@@ -1,4 +1,4 @@
-# 🚀 Smart Fan & Lighting Controller with FOTA Bootloader (STM32F401CC)
+# 🚀 Lighting Controller with FOTA Bootloader (STM32F401CC)
 
 An industrial-grade **ARM Cortex-M4 Bare-Metal Embedded System** integrating a custom **Firmware Over-The-Air (FOTA)** bootloader, multi-layered software architecture (`MCAL`, `HAL`, `APP`), wireless IoT connectivity via **ESP32**, interactive **TFT Graphical UI**, **NEC Infrared Remote Control**, and **8-bit R2R DAC Audio Feedback**.
 
